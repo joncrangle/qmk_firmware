@@ -1,5 +1,6 @@
 /* Copyright 2021 Jonavin Eng @Jonavin
    Copyright 2022 gourdo1 <gourdo1@outlook.com>
+   Copyright 2026 joncrangle <94425204+joncrangle@users.noreply.github.com>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
